@@ -1,0 +1,8 @@
+{
+  "name": "Money Mint",
+  "description": "Daily expenses tracker with budgets, analytics, categories, and financial insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
